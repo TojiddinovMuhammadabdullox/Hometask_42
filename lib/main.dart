@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:hometask42_1/2-exercise/compulation.dart';
 import 'package:hometask42_1/3-exercise/image_screen.dart';
 
 void main() {
